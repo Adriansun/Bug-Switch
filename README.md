@@ -1,5 +1,4 @@
 # Bug-Switch
-Android - 03 - Bug Switch <br />
 Språk/API: Java / Android, Firebase, Google Play Services. <br />
 Länk: https://play.google.com/store/apps/details?id=se.ansoa.bugswitch&hl=en <br />
 
